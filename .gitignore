@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+publish/
+artifacts/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local settings and logs
+appsettings.json
+*.log
+*.tmp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Test screenshots
+dbg_*.png
+dbg_*.jpg
+last-screen.jpg
